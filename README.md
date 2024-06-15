@@ -8,11 +8,7 @@
 
 <h3 align="center">
 
-    
-    [![Deploy to Koyeb]
-    
-    
-    (https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/mrdevil42023/DEVILXMUSIC/blob/master/README.md&branch=main&name=MRDEVIL12)" width="220" height="38.45"/></a></p>
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/mrdevil42023/DEVILXMUSIC/blob/master/README.md&branch=main&name=MRDEVIL12)
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
